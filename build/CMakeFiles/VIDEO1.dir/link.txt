@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/VIDEO1.dir/src/main.cpp.o -o VIDEO1  lib/glwf/src/libglfw3.a -lGL -lGLU -lX11 /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 
